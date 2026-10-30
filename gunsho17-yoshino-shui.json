@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/yoshino-shui",
  "yomi": "よしのしゅうい",
  "category": "説話",
- "description": null,
+ "description": {
+  "kind": "説話集",
+  "era": "未詳",
+  "author": "未詳（奥書に「隠士松翁」）",
+  "desc": "後醍醐天皇の吉野の行宮をめぐる南朝の人々の逸話と歌を集めた説話集。奥書は正平13年に隠士松翁が記したとするが、作者・成立は確かでない。"
+ },
  "editions": [
   {
    "pid": "1879565",
