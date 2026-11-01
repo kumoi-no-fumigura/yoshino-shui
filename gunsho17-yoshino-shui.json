@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 17,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "gunsho17-yoshino-shui-0001",
@@ -380,6 +383,7 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-11-01",
-  "updated_at": "2026-11-01T09:24:12+09:00"
+  "updated_at": "2026-11-01T09:24:12+09:00",
+  "yaku": 17
  }
 }
